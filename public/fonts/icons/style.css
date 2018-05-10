@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?hc2q68');
+  src:  url('fonts/icomoon.eot?hc2q68#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?hc2q68') format('truetype'),
+    url('fonts/icomoon.woff?hc2q68') format('woff'),
+    url('fonts/icomoon.svg?hc2q68#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-team:before {
+  content: "\e915";
+}
+.icon-team-workplace:before {
+  content: "\e916";
+}
+.icon-back:before {
+  content: "\e900";
+}
+.icon-delete:before {
+  content: "\e901";
+}
+.icon-help:before {
+  content: "\e902";
+}
+.icon-hiring-accepted:before {
+  content: "\e903";
+}
+.icon-hiring-process:before {
+  content: "\e904";
+}
+.icon-hiring-rejected:before {
+  content: "\e905";
+}
+.icon-jobs-active:before {
+  content: "\e906";
+}
+.icon-jobs-applied:before {
+  content: "\e907";
+}
+.icon-jobs-archived:before {
+  content: "\e908";
+}
+.icon-jobs-bookmarked:before {
+  content: "\e909";
+}
+.icon-jobs-completed:before {
+  content: "\e90a";
+}
+.icon-jobs-invited:before {
+  content: "\e90b";
+}
+.icon-jobs-search:before {
+  content: "\e90c";
+}
+.icon-mark-as-favorite:before {
+  content: "\e90d";
+}
+.icon-mark-as-read:before {
+  content: "\e90e";
+}
+.icon-my-account:before {
+  content: "\e90f";
+}
+.icon-my-inbox:before {
+  content: "\e910";
+}
+.icon-my-profile:before {
+  content: "\e911";
+}
+.icon-test-done:before {
+  content: "\e912";
+}
+.icon-test-review:before {
+  content: "\e913";
+}
+.icon-test-take:before {
+  content: "\e914";
+}
+

@@ -1,0 +1,8 @@
+Need to change the coding for relationship for job
+
+$user->jobs = it should retrieve all the jobs posted by users
+$user->job->workers = display all the worker of jobs
+
+Need to check for "
+posted jobs and my current job
+"

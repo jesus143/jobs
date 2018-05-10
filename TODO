@@ -1,0 +1,64 @@
+Todo Teamwork Ingine
+
+Add edit my profile content and tab
+Create blade if condition for roles, employer, jobseeker and administrator
+Check employer for signup and edit profile
+
+1. Implement different sidebar for jobseeker, employer and adminstrator
+2. Implement employer
+2. Implement ui for adminstrator
+3. Implement ui for Jobseeker
+
+Later:
+
+2. implement next step tab for employer and jobseeker
+3. optimize header for jobseeker and employer profile
+4. link top header dropdown to correct pages
+5. jobseeker tell us about your self didn't higlight the left tab when clicked
+6. click profilepic avatar redirect to profile
+
+8. Add general overlay loading when clicked a page
+
+Convert if else condition side bar to blade directive
+
+
+
+APRIL 14, 2018
+
+@TODO check standard if else condition format
+@TODO move language resources/lang/messages.php to helper package
+
+@TODO List all the usefull action added in posting a job
+@TODO search job
+
+
+
+
+@TODO create seeder for job applicants
+@TODO code job applicants active
+@TODO code job applicants archived
+@TODO move user functions and other codes to traits
+@TODO Arrange code for details and applicants
+@TODO Continue job applicants
+@TODO Continue job archived
+
+@TODO : Jobseeker view job detail - it should be something redirect
+@TODO Check admin jobs what else not functioning
+
+
+@TODO : Find way how to add alia name of route
+
+
+
+
+
+
+@TODO 26, 2018
+
+@TODO : Job Messaging - Auto load messages veujs
+@TODO : Job Messaging - When click view older messages, load more message ex: limit 10
+@TODO : Job Messaging - If jobseeker ask to disconue the job, it needs to display the disconue message at the very footer of the message
+@TODO : Job Messaging - Hit accept discontinue - set job as discontinued
+@TODO : Job Messaging - Hit reject request - set job to continue and nothing happens
+@TODO : Job Messaging - when hit send button auto send message or ctr+enter
+@TODO : Job Messaging - when typing jobseeker or employer need to display typing message with pic
